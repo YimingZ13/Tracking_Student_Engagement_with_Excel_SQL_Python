@@ -21,9 +21,6 @@ This project involves the following key components:
 - **Hypothesis and Probability Testing with Excel**: Conduct statistical analysis and hypothesis testing using Excel to uncover trends and validate assumptions about student behavior and engagement.
 - **Data Preprocessing and Modeling with Python**: Utilize Python for cleaning, transforming, and modeling the data. Machine learning models will be developed to predict engagement outcomes and identify key factors influencing student success.
 
-
-The [original datasets](https://www.kaggle.com/datasets/vetrirah/customer?select=Train.csv), encapsulates customer data of an automobile company.
-
 <a name="FileStructure"></a>
 ## File Structure
 Each of the following project steps is completed in a separate notebook:
