@@ -28,7 +28,7 @@ Each of the following project steps is completed in a separate notebook:
 - [Data Extraction](https://github.com/YimingZ13/Tracking_Student_Engagement_with_Excel_SQL_Python/blob/main/sql_files/sql_script.sql): `sql_script.sql`
 - [Data Preprocessing](https://github.com/YimingZ13/Tracking_Student_Engagement_with_Excel_SQL_Python/blob/main/python_files/data_preprocessing.ipynb): `data_preprocessing.ipynb`
 - [Excel Workboook](https://github.com/YimingZ13/Tracking_Student_Engagement_with_Excel_SQL_Python/blob/main/excel_files/workbook.xlsx): `workbook.xlsx`
-- [Predicting Model](https://github.com/YimingZ13/Tracking_Student_Engagement_with_Excel_SQL_Python/blob/main/python_files/modelling.ipynb): `modelling.ipynb`
+- [Predictive Model](https://github.com/YimingZ13/Tracking_Student_Engagement_with_Excel_SQL_Python/blob/main/python_files/modelling.ipynb): `modelling.ipynb`
 - [Final Report](https://github.com/YimingZ13/Tracking_Student_Engagement_with_Excel_SQL_Python/blob/main/final_report.pdf): `final_report.pdf`
 
 <a name="Installing"></a>
